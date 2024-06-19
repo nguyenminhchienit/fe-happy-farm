@@ -1,5 +1,8 @@
-const Dashboard = () => {
-  return <div style={{ height: "80vh" }}>Dashboard</div>;
-};
-
-export default Dashboard;
+const Dashboard = () =>{
+    return (
+        <div>
+            <h3>hjkfda</h3>
+        </div>
+    )
+}
+export default Dashboard
